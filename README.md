@@ -11,5 +11,3 @@ Learning by building — small econ tools and experiments. More soon.
 
 <!-- Add your links here, e.g. -->
 <!-- [GitHub](https://github.com/shauryajani) · [Email](mailto:you@example.com) -->
-
-<!-- hook test: auto-push verified -->
